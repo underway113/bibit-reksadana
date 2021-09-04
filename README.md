@@ -18,3 +18,17 @@ $ vercel dev
 ```
 
 Checkout [bibit-reksadana.vercel.app](https://bibit-reksadana.vercel.app/) for API documentation.
+
+## How to use
+https://bibit-reksadana.vercel.app/api?buy_from_bibit=true&search=Sucor&page=1&per_page=10&types=fixed_income&sharia=false&usd=false&sort_by=return_1y&sort_direction=asc
+
+https://bibit-reksadana.vercel.app/api?
+buy_from_bibit=true
+search=Sucor
+page=1
+per_page=10
+types=fixed_income
+sharia=false
+usd=false
+sort_by=return_1y
+sort_direction=asc
